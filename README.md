@@ -32,13 +32,13 @@ Ji estan indikata per la prepozicio “na” sed ji estan nedevigata, kay maloft
 ## Lojnomo - landnomo
 
 Unua metodo:
-franco -> Franclando
-polo -> Pollando
-sviso -> Svislando
-
-Dua metodo:
-usonano <- Usono
-brazilano <- Brazilo
+- franco -> Franclando 
+- polo -> Pollando 
+- sviso -> Svislando 
+ 
+Dua metodo: 
+- usonano <- Usono 
+- brazilano <- Brazilo 
 
 Ne tre belan? Ne gravan! Estan ... PROVIZORA!
 
